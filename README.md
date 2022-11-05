@@ -1,8 +1,8 @@
 # Getting Started with VIVA Challenge
 
-### Install NPM 
+### `Install NPM` 
 
-Run `npm install` at the root redirectory
+Run `npm install` at the root redirectory to install the packages
 
 ### `npm start`
 
